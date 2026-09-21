@@ -84,7 +84,7 @@ days = [
     ('Zondag', dict(
         ontbijt=[I('protein-pancakes-vanille', 50, '2 scoops'), I('olijfolie', 15, '1 eetlepel'), I('honing', 14, '2 theelepels'), I('blauwe-bessen', 30, '1 handje')],
         lunch=[R('tosti-met-kip-mozzarella-en-pesto', 447)],
-        diner=[R('zalm-teriyaki-met-woknoedels-en-cashewnoten', 833)],
+        diner=[R('zalm-teriyaki-met-woknoedels-en-cashewnoten', 833, 1.17)],
         tussendoortje=[I('franse-magere-kwark', 375), I('appel', 150, '1 appel')])),
 ]
 PDF_TOT = [(1974, 131, 179, 80), (1887, 136, 202, 58), (1946, 154, 212, 57), (1840, 135, 193, 56),
