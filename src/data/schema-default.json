@@ -1,0 +1,440 @@
+{
+ "id": "default",
+ "name": "Groei-maatje weekmenu",
+ "builtin": true,
+ "targets": {
+  "kcal": 1927,
+  "eiwit": 136,
+  "kh": 193,
+  "vet": 67
+ },
+ "days": [
+  {
+   "name": "Maandag",
+   "meals": {
+    "ontbijt": [
+     {
+      "type": "recipe",
+      "dish": "overnight-oats-met-mango-sinaasappel-en-amandelen",
+      "variant": "overnight-oats-met-mango-sinaasappel-en-amandelen-404",
+      "portions": 1
+     }
+    ],
+    "lunch": [
+     {
+      "type": "recipe",
+      "dish": "volkorencracker-met-avocado",
+      "variant": "volkorencracker-met-avocado-142",
+      "portions": 3
+     },
+     {
+      "type": "product",
+      "product": "ei-gekookt",
+      "amount": 55,
+      "label": "1 ei (M)"
+     },
+     {
+      "type": "product",
+      "product": "snoepgroente-tomaat",
+      "amount": 100
+     }
+    ],
+    "diner": [
+     {
+      "type": "recipe",
+      "dish": "gebakken-aardappelschijfjes-met-gehaktballen-en-geroosterde-groente",
+      "variant": "gebakken-aardappelschijfjes-met-gehaktballen-en-geroosterde-groente-547",
+      "portions": 1
+     }
+    ],
+    "tussendoortje": [
+     {
+      "type": "product",
+      "product": "franse-magere-kwark",
+      "amount": 250,
+      "label": "1 halve portie"
+     },
+     {
+      "type": "product",
+      "product": "whey-banaan",
+      "amount": 35,
+      "label": "1 scoop"
+     },
+     {
+      "type": "product",
+      "product": "notenmix",
+      "amount": 30,
+      "label": "1 handje"
+     },
+     {
+      "type": "product",
+      "product": "blauwe-bessen",
+      "amount": 30,
+      "label": "1 handje"
+     }
+    ]
+   }
+  },
+  {
+   "name": "Dinsdag",
+   "meals": {
+    "ontbijt": [
+     {
+      "type": "recipe",
+      "dish": "kwarkbowl-met-aardbeien-muesli-en-walnoten",
+      "variant": "kwarkbowl-met-aardbeien-muesli-en-walnoten-473",
+      "portions": 1
+     },
+     {
+      "type": "product",
+      "product": "notenmix",
+      "amount": 30,
+      "label": "1 handje"
+     }
+    ],
+    "lunch": [
+     {
+      "type": "recipe",
+      "dish": "volkorenbrood-met-kipfilet",
+      "variant": "volkorenbrood-met-kipfilet-237",
+      "portions": 1.5,
+      "leftover": 4
+     },
+     {
+      "type": "product",
+      "product": "snoepgroente-komkommer",
+      "amount": 100
+     }
+    ],
+    "diner": [
+     {
+      "type": "recipe",
+      "dish": "ribeye-met-zoete-aardappel-en-geroosterde-groente-uit-de-airfryer",
+      "variant": "ribeye-met-zoete-aardappel-en-geroosterde-groente-uit-de-airfryer-644",
+      "portions": 1
+     }
+    ],
+    "tussendoortje": [
+     {
+      "type": "product",
+      "product": "franse-magere-kwark",
+      "amount": 250,
+      "label": "1 halve portie"
+     },
+     {
+      "type": "product",
+      "product": "mandarijn",
+      "amount": 140,
+      "label": "2 mandarijnen"
+     }
+    ]
+   }
+  },
+  {
+   "name": "Woensdag",
+   "meals": {
+    "ontbijt": [
+     {
+      "type": "recipe",
+      "dish": "avocado-banaan-shake-met-honing",
+      "variant": "avocado-banaan-shake-met-honing-504",
+      "portions": 1
+     }
+    ],
+    "lunch": [
+     {
+      "type": "recipe",
+      "dish": "tonijnwrap",
+      "variant": "tonijnwrap-357",
+      "portions": 1
+     },
+     {
+      "type": "product",
+      "product": "snoepgroente-tomaat",
+      "amount": 100
+     }
+    ],
+    "diner": [
+     {
+      "type": "recipe",
+      "dish": "laag-voor-laag-groente-lasagne-met-mager-rundergehakt",
+      "variant": "laag-voor-laag-groente-lasagne-met-mager-rundergehakt-549",
+      "portions": 1,
+      "leftover": 4
+     }
+    ],
+    "tussendoortje": [
+     {
+      "type": "product",
+      "product": "pure-chocolade-70",
+      "amount": 25,
+      "label": "1 stukje"
+     },
+     {
+      "type": "product",
+      "product": "dadel-medjool",
+      "amount": 48,
+      "label": "2 dadels"
+     },
+     {
+      "type": "product",
+      "product": "franse-magere-kwark",
+      "amount": 250,
+      "label": "1 halve portie"
+     },
+     {
+      "type": "product",
+      "product": "notenmix",
+      "amount": 15
+     }
+    ]
+   }
+  },
+  {
+   "name": "Donderdag",
+   "meals": {
+    "ontbijt": [
+     {
+      "type": "recipe",
+      "dish": "protein-oats-met-blauwe-bessen-en-cacao-nibs",
+      "variant": "protein-oats-met-blauwe-bessen-en-cacao-nibs-546",
+      "portions": 1
+     }
+    ],
+    "lunch": [
+     {
+      "type": "recipe",
+      "dish": "volkorenbrood-met-kipfilet",
+      "variant": "volkorenbrood-met-kipfilet-237",
+      "portions": 1.5,
+      "leftover": 2
+     },
+     {
+      "type": "product",
+      "product": "snoepgroente-komkommer",
+      "amount": 100
+     }
+    ],
+    "diner": [
+     {
+      "type": "recipe",
+      "dish": "laag-voor-laag-groente-lasagne-met-mager-rundergehakt",
+      "variant": "laag-voor-laag-groente-lasagne-met-mager-rundergehakt-549",
+      "portions": 1,
+      "leftover": 3
+     }
+    ],
+    "tussendoortje": [
+     {
+      "type": "product",
+      "product": "franse-magere-kwark",
+      "amount": 250,
+      "label": "1 halve portie"
+     },
+     {
+      "type": "product",
+      "product": "notenmix",
+      "amount": 30,
+      "label": "1 handje"
+     },
+     {
+      "type": "product",
+      "product": "kiwi",
+      "amount": 80,
+      "label": "1 kiwi"
+     }
+    ]
+   }
+  },
+  {
+   "name": "Vrijdag",
+   "meals": {
+    "ontbijt": [
+     {
+      "type": "product",
+      "product": "franse-magere-kwark",
+      "amount": 375
+     },
+     {
+      "type": "product",
+      "product": "blauwe-bessen",
+      "amount": 30,
+      "label": "1 handje"
+     },
+     {
+      "type": "product",
+      "product": "muesli-naturel",
+      "amount": 25
+     }
+    ],
+    "lunch": [
+     {
+      "type": "recipe",
+      "dish": "high-protein-tosti-met-kipfilet-en-kaas",
+      "variant": "high-protein-tosti-met-kipfilet-en-kaas-476",
+      "portions": 1
+     },
+     {
+      "type": "product",
+      "product": "snoepgroente-paprika",
+      "amount": 100
+     }
+    ],
+    "diner": [
+     {
+      "type": "recipe",
+      "dish": "kikkererwten-en-spinazie-kokoscurry",
+      "variant": "kikkererwten-en-spinazie-kokoscurry-673",
+      "portions": 1
+     }
+    ],
+    "tussendoortje": [
+     {
+      "type": "product",
+      "product": "melkunie-protein-bosbes",
+      "amount": 200,
+      "label": "1 portie"
+     },
+     {
+      "type": "product",
+      "product": "mandarijn",
+      "amount": 140,
+      "label": "2 mandarijnen"
+     },
+     {
+      "type": "product",
+      "product": "golden-bar-white-raspberry",
+      "amount": 50,
+      "label": "1 bar"
+     }
+    ]
+   }
+  },
+  {
+   "name": "Zaterdag",
+   "meals": {
+    "ontbijt": [
+     {
+      "type": "recipe",
+      "dish": "proteineshake-met-vanille-en-blauwe-bessen",
+      "variant": "proteineshake-met-vanille-en-blauwe-bessen-313",
+      "portions": 1
+     }
+    ],
+    "lunch": [
+     {
+      "type": "recipe",
+      "dish": "broodje-caprese-met-pesto-en-mozzarella",
+      "variant": "broodje-caprese-met-pesto-en-mozzarella-351",
+      "portions": 1
+     },
+     {
+      "type": "product",
+      "product": "mandarijn",
+      "amount": 140,
+      "label": "2 mandarijnen"
+     }
+    ],
+    "diner": [
+     {
+      "type": "recipe",
+      "dish": "smashed-hamburger-met-cheddar-en-huissaus",
+      "variant": "smashed-hamburger-met-cheddar-en-huissaus-501",
+      "portions": 1
+     },
+     {
+      "type": "product",
+      "product": "ovenfriet",
+      "amount": 250,
+      "label": "1 portie"
+     },
+     {
+      "type": "product",
+      "product": "snoepgroente-tomaat",
+      "amount": 100
+     },
+     {
+      "type": "product",
+      "product": "mayonaise",
+      "amount": 20,
+      "label": "1 eetlepel"
+     }
+    ],
+    "tussendoortje": [
+     {
+      "type": "product",
+      "product": "banaan",
+      "amount": 120,
+      "label": "1 middelgrote"
+     },
+     {
+      "type": "product",
+      "product": "whey-banaan",
+      "amount": 35,
+      "label": "1 scoop"
+     }
+    ]
+   }
+  },
+  {
+   "name": "Zondag",
+   "meals": {
+    "ontbijt": [
+     {
+      "type": "product",
+      "product": "protein-pancakes-vanille",
+      "amount": 50,
+      "label": "2 scoops"
+     },
+     {
+      "type": "product",
+      "product": "olijfolie",
+      "amount": 15,
+      "label": "1 eetlepel"
+     },
+     {
+      "type": "product",
+      "product": "honing",
+      "amount": 14,
+      "label": "2 theelepels"
+     },
+     {
+      "type": "product",
+      "product": "blauwe-bessen",
+      "amount": 30,
+      "label": "1 handje"
+     }
+    ],
+    "lunch": [
+     {
+      "type": "recipe",
+      "dish": "tosti-met-kip-mozzarella-en-pesto",
+      "variant": "tosti-met-kip-mozzarella-en-pesto-447",
+      "portions": 1
+     }
+    ],
+    "diner": [
+     {
+      "type": "recipe",
+      "dish": "zalm-teriyaki-met-woknoedels-en-cashewnoten",
+      "variant": "zalm-teriyaki-met-woknoedels-en-cashewnoten-710",
+      "portions": 1
+     }
+    ],
+    "tussendoortje": [
+     {
+      "type": "product",
+      "product": "franse-magere-kwark",
+      "amount": 375
+     },
+     {
+      "type": "product",
+      "product": "appel",
+      "amount": 150,
+      "label": "1 appel"
+     }
+    ]
+   }
+  }
+ ]
+}

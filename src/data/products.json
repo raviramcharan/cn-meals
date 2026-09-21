@@ -1,0 +1,384 @@
+[
+ {
+  "id": "franse-magere-kwark",
+  "name": "Franse Magere Kwark",
+  "unit": "g",
+  "per100": {
+   "kcal": 59.2,
+   "eiwit": 8.9,
+   "kh": 4.3,
+   "vet": 0.3
+  },
+  "servings": [
+   {
+    "label": "1 halve portie",
+    "amount": 250
+   },
+   {
+    "label": "1 portie",
+    "amount": 500
+   }
+  ]
+ },
+ {
+  "id": "whey-banaan",
+  "name": "Whey Protein Banaan",
+  "unit": "g",
+  "per100": {
+   "kcal": 394.3,
+   "eiwit": 75,
+   "kh": 8,
+   "vet": 6
+  },
+  "servings": [
+   {
+    "label": "1 scoop",
+    "amount": 35
+   }
+  ]
+ },
+ {
+  "id": "notenmix",
+  "name": "Notenmix ongezouten",
+  "unit": "g",
+  "per100": {
+   "kcal": 600,
+   "eiwit": 20,
+   "kh": 10,
+   "vet": 53
+  },
+  "servings": [
+   {
+    "label": "1 handje",
+    "amount": 30
+   }
+  ]
+ },
+ {
+  "id": "blauwe-bessen",
+  "name": "Blauwe bessen",
+  "unit": "g",
+  "per100": {
+   "kcal": 53.3,
+   "eiwit": 0.7,
+   "kh": 11.5,
+   "vet": 0.3
+  },
+  "servings": [
+   {
+    "label": "1 handje",
+    "amount": 30
+   }
+  ]
+ },
+ {
+  "id": "ei-gekookt",
+  "name": "Ei gekookt",
+  "unit": "g",
+  "per100": {
+   "kcal": 154.5,
+   "eiwit": 12.5,
+   "kh": 0.7,
+   "vet": 11
+  },
+  "servings": [
+   {
+    "label": "1 ei (M)",
+    "amount": 55
+   }
+  ]
+ },
+ {
+  "id": "snoepgroente-tomaat",
+  "name": "AH Snoepgroente tomaat",
+  "unit": "g",
+  "per100": {
+   "kcal": 31,
+   "eiwit": 1.1,
+   "kh": 5.5,
+   "vet": 0.3
+  },
+  "servings": [
+   {
+    "label": "1 bakje",
+    "amount": 100
+   }
+  ]
+ },
+ {
+  "id": "snoepgroente-komkommer",
+  "name": "AH Snoepgroente komkommer",
+  "unit": "g",
+  "per100": {
+   "kcal": 13,
+   "eiwit": 0.7,
+   "kh": 2,
+   "vet": 0.1
+  },
+  "servings": [
+   {
+    "label": "1 bakje",
+    "amount": 100
+   }
+  ]
+ },
+ {
+  "id": "snoepgroente-paprika",
+  "name": "AH Snoepgroente paprika",
+  "unit": "g",
+  "per100": {
+   "kcal": 25,
+   "eiwit": 1,
+   "kh": 5,
+   "vet": 0.2
+  },
+  "servings": [
+   {
+    "label": "1 bakje",
+    "amount": 100
+   }
+  ]
+ },
+ {
+  "id": "mandarijn",
+  "name": "Mandarijn",
+  "unit": "g",
+  "per100": {
+   "kcal": 52.9,
+   "eiwit": 0.8,
+   "kh": 12,
+   "vet": 0.3
+  },
+  "servings": [
+   {
+    "label": "1 mandarijn",
+    "amount": 70
+   }
+  ]
+ },
+ {
+  "id": "pure-chocolade-70",
+  "name": "Delicata Reep extra pure chocolade 70%",
+  "unit": "g",
+  "per100": {
+   "kcal": 540,
+   "eiwit": 9,
+   "kh": 33,
+   "vet": 40
+  },
+  "servings": [
+   {
+    "label": "1 stukje",
+    "amount": 25
+   }
+  ]
+ },
+ {
+  "id": "dadel-medjool",
+  "name": "Dadel Medjool",
+  "unit": "g",
+  "per100": {
+   "kcal": 277,
+   "eiwit": 1.8,
+   "kh": 75,
+   "vet": 0.2
+  },
+  "servings": [
+   {
+    "label": "1 dadel",
+    "amount": 24
+   }
+  ]
+ },
+ {
+  "id": "kiwi",
+  "name": "Kiwi",
+  "unit": "g",
+  "per100": {
+   "kcal": 61.3,
+   "eiwit": 1.1,
+   "kh": 12,
+   "vet": 0.5
+  },
+  "servings": [
+   {
+    "label": "1 kiwi",
+    "amount": 80
+   }
+  ]
+ },
+ {
+  "id": "muesli-naturel",
+  "name": "Muesli naturel",
+  "unit": "g",
+  "per100": {
+   "kcal": 380,
+   "eiwit": 10,
+   "kh": 60,
+   "vet": 7
+  },
+  "servings": [
+   {
+    "label": "1 portie",
+    "amount": 40
+   }
+  ]
+ },
+ {
+  "id": "melkunie-protein-bosbes",
+  "name": "Melkunie Protein bosbes kwark",
+  "unit": "g",
+  "per100": {
+   "kcal": 71,
+   "eiwit": 10,
+   "kh": 6,
+   "vet": 0.4
+  },
+  "servings": [
+   {
+    "label": "1 portie",
+    "amount": 200
+   }
+  ]
+ },
+ {
+  "id": "golden-bar-white-raspberry",
+  "name": "Golden Bar White Chocolate Raspberry",
+  "unit": "g",
+  "per100": {
+   "kcal": 376,
+   "eiwit": 40,
+   "kh": 28,
+   "vet": 12
+  },
+  "servings": [
+   {
+    "label": "1 bar",
+    "amount": 50
+   }
+  ]
+ },
+ {
+  "id": "ovenfriet",
+  "name": "Ovenfriet",
+  "unit": "g",
+  "per100": {
+   "kcal": 130,
+   "eiwit": 2.5,
+   "kh": 20,
+   "vet": 4
+  },
+  "servings": [
+   {
+    "label": "1 portie",
+    "amount": 250
+   }
+  ]
+ },
+ {
+  "id": "mayonaise",
+  "name": "Zaanse mayonaise",
+  "unit": "g",
+  "per100": {
+   "kcal": 735,
+   "eiwit": 1,
+   "kh": 1.5,
+   "vet": 80
+  },
+  "servings": [
+   {
+    "label": "1 eetlepel",
+    "amount": 20
+   }
+  ]
+ },
+ {
+  "id": "banaan",
+  "name": "Banaan",
+  "unit": "g",
+  "per100": {
+   "kcal": 89.2,
+   "eiwit": 1.1,
+   "kh": 20,
+   "vet": 0.3
+  },
+  "servings": [
+   {
+    "label": "1 middelgrote",
+    "amount": 120
+   }
+  ]
+ },
+ {
+  "id": "protein-pancakes-vanille",
+  "name": "Protein Pancakes Vanille",
+  "unit": "g",
+  "per100": {
+   "kcal": 376,
+   "eiwit": 38,
+   "kh": 42,
+   "vet": 5
+  },
+  "servings": [
+   {
+    "label": "1 scoop",
+    "amount": 25
+   }
+  ]
+ },
+ {
+  "id": "olijfolie",
+  "name": "Olijfolie",
+  "unit": "ml",
+  "per100": {
+   "kcal": 820,
+   "eiwit": 0,
+   "kh": 0,
+   "vet": 91
+  },
+  "servings": [
+   {
+    "label": "1 eetlepel",
+    "amount": 15
+   },
+   {
+    "label": "1 theelepel",
+    "amount": 5
+   }
+  ]
+ },
+ {
+  "id": "honing",
+  "name": "Honing",
+  "unit": "g",
+  "per100": {
+   "kcal": 307,
+   "eiwit": 0.3,
+   "kh": 82,
+   "vet": 0
+  },
+  "servings": [
+   {
+    "label": "1 theelepel",
+    "amount": 7
+   }
+  ]
+ },
+ {
+  "id": "appel",
+  "name": "Appel",
+  "unit": "g",
+  "per100": {
+   "kcal": 52,
+   "eiwit": 0.3,
+   "kh": 12,
+   "vet": 0.2
+  },
+  "servings": [
+   {
+    "label": "1 appel",
+    "amount": 150
+   }
+  ]
+ }
+]
